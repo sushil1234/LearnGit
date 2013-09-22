@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//write logic
 		Log.d("TAG", "test1");
+		Log.d("TAG", "test2");
+
 	}
 
 	@Override
