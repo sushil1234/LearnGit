@@ -2,6 +2,7 @@ package com.learn.git.helloworld;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
@@ -11,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//write logic
-
+		Log.d("TAG", "test1");
 	}
 
 	@Override
