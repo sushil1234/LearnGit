@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 		//write logic
 		Log.d("TAG", "test1");
 		Log.d("TAG", "test2");
-
+		Log.d("TAG", "test3");
 	}
 
 	@Override
