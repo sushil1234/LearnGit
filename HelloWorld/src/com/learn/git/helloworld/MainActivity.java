@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 		Log.d("TAG", "test1");
 		Log.d("TAG", "test2");
 		Log.d("TAG", "test3");
+		Log.d("TAG", "test4");
 	}
 
 	@Override
